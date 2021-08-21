@@ -1,4 +1,4 @@
-# Advanced-Analytics-as-a-Service-in-Smart-Factories
+# Advanced Analytics as a Service in Smart Factories
 
 This repository is associated to a conference paper not published yet. 
 
